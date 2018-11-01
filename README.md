@@ -43,3 +43,6 @@ This is where a user can change the destination of a delivery they had already o
 #CANCEL DELIVERY
 This where a user can cancel the delivery they had orderd
 
+#SEE DELIVERY DETAILS
+This is where the user can see the details of the of their delivery they had already done 
+
