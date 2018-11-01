@@ -52,3 +52,6 @@ This is where a registerd user can see a summary of all deliveries they have mad
 #ADMIN STATUS
 This is where an admin can status of a delivery made 
 
+#ADMIN CHANGE LOCATION
+This is where an admin can change the location of the delivery to a desired location
+
