@@ -40,4 +40,6 @@ A user who has already logged in can create orders by clicking the create orders
 #CHANGE DESTINATION
 This is where a user can change the destination of a delivery they had already orderd to a new destination they desire
 
+#CANCEL DELIVERY
+This where a user can cancel the delivery they had orderd
 
