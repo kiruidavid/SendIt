@@ -49,3 +49,6 @@ This is where the user can see the details of the of their delivery they had alr
 #SEE ALL DELIVERIES
 This is where a registerd user can see a summary of all deliveries they have made 
 
+#ADMIN STATUS
+This is where an admin can status of a delivery made 
+
