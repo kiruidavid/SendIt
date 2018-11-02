@@ -46,3 +46,6 @@ This where a user can cancel the delivery they had orderd
 #SEE DELIVERY DETAILS
 This is where the user can see the details of the of their delivery they had already done 
 
+#SEE ALL DELIVERIES
+This is where a registerd user can see a summary of all deliveries they have made 
+
