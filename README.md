@@ -28,4 +28,7 @@ Only the user who created the parcel delivery order can cancel the order.
 # HOMEPAGE
 The first homepage when one navigates to the site's web address 
 
+# PROFILE 
+This is where a new user can create a new profile after clicking the create profile link in the homepage
+
 
