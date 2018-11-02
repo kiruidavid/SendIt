@@ -34,4 +34,7 @@ This is where a new user can create a new profile after clicking the create prof
 # LOG IN
 This is where a user with a profile can log in so as to make a delivery or view details
 
+#CREATE ORDERS 
+A user who has already logged in can create orders by clicking the create orders link in the homepage 
+
 
