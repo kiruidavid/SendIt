@@ -37,4 +37,7 @@ This is where a user with a profile can log in so as to make a delivery or view 
 #CREATE ORDERS 
 A user who has already logged in can create orders by clicking the create orders link in the homepage 
 
+#CHANGE DESTINATION
+This is where a user can change the destination of a delivery they had already orderd to a new destination they desire
+
 
