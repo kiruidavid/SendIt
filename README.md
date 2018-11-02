@@ -31,4 +31,7 @@ The first homepage when one navigates to the site's web address
 # PROFILE 
 This is where a new user can create a new profile after clicking the create profile link in the homepage
 
+# LOG IN
+This is where a user with a profile can log in so as to make a delivery or view details
+
 
